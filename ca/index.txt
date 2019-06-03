@@ -1,0 +1,2 @@
+V	200602040553Z		01	unknown	/CN=localhost/O=server
+V	200602040620Z		02	unknown	/CN=client/O=client
